@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -47,8 +52,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -216,6 +223,10 @@
       <screen x="0" y="0" width="1463" height="866" />
     </state>
     <state x="324" y="92" key="#项目结构/0.0.1463.866/2560.0.1920.1032@0.0.1463.866" timestamp="1720350954016" />
+    <state x="319" y="25" key="CommitChangelistDialog2" timestamp="1720352264639">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state x="319" y="25" key="CommitChangelistDialog2/0.0.1463.866/2560.0.1920.1032@0.0.1463.866" timestamp="1720352264639" />
     <state x="564" y="227" key="FileChooserDialogImpl" timestamp="1720350940510">
       <screen x="0" y="0" width="1463" height="866" />
     </state>
@@ -269,9 +280,10 @@
       <screen x="2560" y="415" width="1920" height="1032" />
     </state>
     <state width="1566" height="237" key="GridCell.Tab.2.right/0.0.1463.866/2560.415.1920.1032@2560.415.1920.1032" timestamp="1717917855250" />
-    <state x="3021" y="573" key="SettingsEditor" timestamp="1717917187003">
-      <screen x="2560" y="415" width="1920" height="1032" />
+    <state x="351" y="16" key="SettingsEditor" timestamp="1720352319152">
+      <screen x="0" y="0" width="1463" height="866" />
     </state>
+    <state x="351" y="16" key="SettingsEditor/0.0.1463.866/2560.0.1920.1032@0.0.1463.866" timestamp="1720352319152" />
     <state x="3021" y="573" key="SettingsEditor/0.0.1463.866/2560.415.1920.1032@2560.415.1920.1032" timestamp="1717917187003" />
     <state x="3204" y="530" width="632" height="801" key="find.popup" timestamp="1717858717196">
       <screen x="2560" y="415" width="1920" height="1032" />
