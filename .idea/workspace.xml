@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1b56198-90ae-4032-a841-736651efb9ba" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/Servlet-01/src/main/java/com/fatfish/servlet/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Servlet-01/src/main/java/com/fatfish/servlet/HelloServlet.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1b56198-90ae-4032-a841-736651efb9ba" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +159,12 @@
         <serviceView>
           <option name="contentProportion" value="0.15205628" />
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -226,10 +229,10 @@
       <screen x="0" y="0" width="1463" height="866" />
     </state>
     <state x="324" y="92" key="#项目结构/0.0.1463.866/2560.0.1920.1032@0.0.1463.866" timestamp="1720350954016" />
-    <state x="319" y="25" key="CommitChangelistDialog2" timestamp="1720353108169">
+    <state x="319" y="25" key="CommitChangelistDialog2" timestamp="1720352602508">
       <screen x="0" y="0" width="1463" height="866" />
     </state>
-    <state x="319" y="25" key="CommitChangelistDialog2/0.0.1463.866/2560.0.1920.1032@0.0.1463.866" timestamp="1720353108169" />
+    <state x="319" y="25" key="CommitChangelistDialog2/0.0.1463.866/2560.0.1920.1032@0.0.1463.866" timestamp="1720352602508" />
     <state x="564" y="227" key="FileChooserDialogImpl" timestamp="1720350940510">
       <screen x="0" y="0" width="1463" height="866" />
     </state>
@@ -292,14 +295,6 @@
       <screen x="0" y="0" width="1463" height="866" />
     </state>
     <state x="93" y="93" width="1277" height="680" key="ShowDiffWithBranchDialog/0.0.1463.866/2560.0.1920.1032@0.0.1463.866" timestamp="1720352567286" />
-    <state x="487" y="137" key="VCS.ChangeListViewerDialog" timestamp="1720352937957">
-      <screen x="0" y="0" width="1463" height="866" />
-    </state>
-    <state x="487" y="137" key="VCS.ChangeListViewerDialog/0.0.1463.866/2560.0.1920.1032@0.0.1463.866" timestamp="1720352937957" />
-    <state x="324" y="155" key="Vcs.Push.Dialog.v2" timestamp="1720353113935">
-      <screen x="0" y="0" width="1463" height="866" />
-    </state>
-    <state x="324" y="155" key="Vcs.Push.Dialog.v2/0.0.1463.866/2560.0.1920.1032@0.0.1463.866" timestamp="1720353113935" />
     <state x="3204" y="530" width="632" height="801" key="find.popup" timestamp="1717858717196">
       <screen x="2560" y="415" width="1920" height="1032" />
     </state>
